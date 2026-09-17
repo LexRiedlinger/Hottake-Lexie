@@ -33,7 +33,9 @@
 .hero {
   background-image: url("https://us.kitchenrage.com/2026/01/best-ranch-dressing-1.webp");
 }
-
+.footer{
+  color: var(--color-primary)
+}
 .hero h1 {
   text-shadow: 2px 2px 5px black;
   font-size: 90px;
