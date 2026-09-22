@@ -42,6 +42,10 @@
   color: var(--color-white);
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 /* TYPE
  *
  * Two faces: one for headings, chosen for tone; one for body, chosen for
